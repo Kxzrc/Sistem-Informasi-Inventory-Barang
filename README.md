@@ -1,1 +1,3 @@
 # Sistem-Informasi-Inventory-Barang
+
+Don't forget to connect the database...
